@@ -8,7 +8,7 @@ import Footer from '@/components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Next.js Pizza Restaurant',
+  title: 'Massimo - Next.js Pizza Restaurant',
   description: 'Demo of the Pizza restaurant',
 }
 
